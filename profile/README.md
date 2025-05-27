@@ -9,6 +9,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"/><img width="5"/>
   <img src="https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"/><img width="5"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white&style=for-the-badge" height="25" alt="javascript logo"/><img width="5"/>
   <img src="https://img.shields.io/badge/Lua-000000?logo=lua&logoColor=white&style=for-the-badge" height="25" alt="lua logo"/><img width="5"/>
 </div>
 
